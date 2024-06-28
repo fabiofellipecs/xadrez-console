@@ -1,2 +1,3 @@
-# xadrez-console
-projeto console de jogo de xadrez em .net c#
+# Xadrez-Console
+
+Primeiro Projeto Back-end, lógicas bem complexas, mas o final foi satisfatorio!
